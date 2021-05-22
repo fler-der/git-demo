@@ -1,27 +1,5 @@
-
-<<<<<<< HEAD
-hello git! hello atguigu!222
-hello git! hello atguigu!333
-=======
-
->>>>>>> hot-fix
+hello git! hello atguigu!2
+hello git! hello atguigu!3
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-
